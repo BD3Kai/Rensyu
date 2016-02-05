@@ -22,6 +22,8 @@ void main(void)
 	
 }
 
+//バイオロボ
+
 //void main(void)
 //{
 //	while (true)
