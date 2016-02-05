@@ -23,6 +23,7 @@ void main(void)
 }
 
 //バイオロボ
+//スーパーターボロボ
 
 //void main(void)
 //{
